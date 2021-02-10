@@ -2,7 +2,7 @@ import { logDOM } from '@testing-library/react'
 import React from 'react'
 import './Logo.css'
 import Tilt from 'react-tilt'
-import brain from './brain2.png'
+import brain from './brain3.png'
 
 const Logo = () => {
     return (
