@@ -1,4 +1,3 @@
-import { logDOM } from '@testing-library/react'
 import React from 'react'
 import './Logo.css'
 import Tilt from 'react-tilt'
